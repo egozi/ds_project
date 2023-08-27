@@ -23,7 +23,7 @@ There is 1 notebook that demonstrate the results of the proposed model for predi
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@egozi5/unveiling-the-challenge-predicting-nba-match-wins-from-past-performance-bf135cd39403).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
